@@ -1,0 +1,3 @@
+/home/pi/clusternfs/testing/rt/base-rt-app/build/CMakeFiles/base_rt_app.dir
+/home/pi/clusternfs/testing/rt/base-rt-app/build/CMakeFiles/edit_cache.dir
+/home/pi/clusternfs/testing/rt/base-rt-app/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/pi/clusternfs/testing/rt/multicore-rt-app/build/CMakeFiles/multicore_rt_app.dir
+/home/pi/clusternfs/testing/rt/multicore-rt-app/build/CMakeFiles/edit_cache.dir
+/home/pi/clusternfs/testing/rt/multicore-rt-app/build/CMakeFiles/rebuild_cache.dir

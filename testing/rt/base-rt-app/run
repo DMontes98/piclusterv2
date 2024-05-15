@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Run main bash
+sudo ./build/base_rt_app

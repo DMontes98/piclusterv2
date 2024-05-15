@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Run main bash
+cd ./slurm
+sudo ./slurm-run.sh

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Project Name
+PROJECT_NAME='Base RT App'
+
+# Formatting
+LIGHT_RED='\e[91m'
+BOLD='\e[1m'
+RESET='\e[0m'
+
+echo -e "${BOLD}[COMPILE]${RESET} Compiling ${BOLD}${PROJECT_NAME}${RESET} Project:${RESET}"
+
+# Run cmake
+cmake --build build -j 4 || exit 1
+
+echo -e "${BOLD}[COMPILE]${RESET} ${BOLD}Cluster Controller${RESET} Project Compilation Complete!"

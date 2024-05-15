@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/multicore_rt_app.dir/src/main.c.o -o multicore_rt_app  -Wl,-rpath,/usr/lib/aarch64-linux-gnu/openmpi/lib -lcap /usr/lib/aarch64-linux-gnu/openmpi/lib/libmpi_cxx.so /usr/lib/aarch64-linux-gnu/openmpi/lib/libmpi.so 
